@@ -115,7 +115,7 @@ Etapa de redes sociales, servicios interactivos y contenidos generados por usuar
 * **Larry Page y Sergey Brin:** Fundadores de Google.
 * **Magia de los garajes:** Origen humilde de grandes empresas tecnológicas (Apple, HP, Google).
 
-![Personajes Claves](https://tse2.mm.bing.net/th/id/OIP.f_FEOID4MsskquR4aJXLgwHaEL?rs=1&pid=ImgDetMain&o=7&rm=3)
+![Personajes Claves](https://tse4.mm.bing.net/th/id/OIP.KPAVuWqIVQb9Sa8s8L8UNwHaFQ?rs=1&pid=ImgDetMain&o=7&rm=3)
 
 ---
 
@@ -182,5 +182,5 @@ Desigualdad en acceso a la tecnología.
 * Domótica y IoT – Cisco Blogs – [https://blogs.cisco.com](https://blogs.cisco.com)
 * Seguridad informática – INCIBE (Instituto Nacional de Ciberseguridad, España) – [https://www.incibe.es](https://www.incibe.es)
 
-![Bibliografia](https://tse1.mm.bing.net/th/id/OIP.7LCeQJDo-v6pCzr6-MZXbwHaE8?rs=1&pid=ImgDetMain&o=7&rm=3)
+
 
