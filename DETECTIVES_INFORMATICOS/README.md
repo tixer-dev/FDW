@@ -56,6 +56,8 @@ Practica1
 
 Comparados con los actuales, eran enormes, lentos, poco fiables y difíciles de programar.
 
+![Primeros Ordenadore](https://images.wired.it/wp-content/uploads/2018/02/13162029/1518531627_ENIAC-1050x590.png)
+
 ---
 
 ### ▪️ Generaciones de ordenadores
@@ -67,6 +69,8 @@ Comparados con los actuales, eran enormes, lentos, poco fiables y difíciles de 
 5. **Quinta (1980–actualidad):** Microprocesadores avanzados, IA, dispositivos móviles, redes globales.
 
 **Electrónica de vacío vs semiconductores:** Las válvulas eran grandes, frágiles y poco eficientes; los transistores son pequeños, fiables y consumen poca energía.
+
+![Generación de Ordenadores]()
 
 ---
 
