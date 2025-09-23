@@ -12,7 +12,7 @@ Practica1
 * **Descripción y funcionamiento:** Calculadora mecánica con ruedas dentadas que representaban cifras decimales. Permitía sumar y restar mediante un sistema de engranajes que trasladaba las llevadas de una rueda a otra. El usuario introducía números en diales y leía resultados en ventanillas. Fue el primer dispositivo mecánico de cálculo práctico, aunque limitado.
 * **¿Por qué no tuvo el éxito esperado?** Su fabricación era costosa y compleja, resolvía solo operaciones básicas y no tenía aplicación masiva en la época.
 
-![Pascalina](https://upload.wikimedia.org/wikipedia/commons/7/7f/Pascaline-CnAM_823-1-IMG_1506-black.jpg)
+![Pascalina]([https://upload.wikimedia.org/wikipedia/commons/7/7f/Pascaline-CnAM_823-1-IMG_1506-black.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Arts_et_Metiers_Pascaline_dsc03869.jpg/1200px-Arts_et_Metiers_Pascaline_dsc03869.jpg))
 
 ---
 
