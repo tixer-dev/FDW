@@ -44,7 +44,7 @@ Practica1
 * **Componentes:** Unidad de control, unidad aritmético-lógica, memoria, entrada y salida.
 * **Importancia:** Estableció el concepto de programa almacenado en memoria. Casi todos los ordenadores modernos derivan de esta arquitectura.
 
-![Arquitectura de Von Neumann](https://upload.wikimedia.org/wikipedia/commons/5/5f/Von_Neumann_Architecture.svg)
+![Arquitectura de Von Neumann](https://elpuig.xeill.net/Members/vcarceler/c1/didactica/apuntes/ud2/na1/arquitectura_von_newmann.png)
 
 ---
 
