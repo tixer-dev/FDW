@@ -70,7 +70,8 @@ Comparados con los actuales, eran enormes, lentos, poco fiables y difíciles de 
 
 **Electrónica de vacío vs semiconductores:** Las válvulas eran grandes, frágiles y poco eficientes; los transistores son pequeños, fiables y consumen poca energía.
 
-![Generación de Ordenadores]()
+
+![Generación de Ordenadores](https://az.genial.ly/users/57fc8c5994fe1f6ad0b1c0f4/57fc8d37b6c0375ecc3e5bfb/57fc8d37b6c0375ecc3e5bfc/thumbnail/57fc8d37b6c0375ecc3e5bfb-57fc8d37b6c0375ecc3e5bfc-thumbnail.png)>
 
 ---
 
@@ -101,6 +102,8 @@ Creación de Tim Berners-Lee. Hipertexto accesible desde navegadores. Populariz�
 
 Etapa de redes sociales, servicios interactivos y contenidos generados por usuarios (desde mediados de los 2000s).
 
+![Historia de Internet](https://tse1.mm.bing.net/th/id/OIP.nzRKMnABrdphuUc_Z68j7QHaEK?rs=1&pid=ImgDetMain&o=7&rm=3)
+
 ---
 
 ### ▪️ Personajes clave
@@ -111,6 +114,8 @@ Etapa de redes sociales, servicios interactivos y contenidos generados por usuar
 * **Tim Berners-Lee:** Inventor de la Web.
 * **Larry Page y Sergey Brin:** Fundadores de Google.
 * **Magia de los garajes:** Origen humilde de grandes empresas tecnológicas (Apple, HP, Google).
+
+![Personajes Claves](https://tse2.mm.bing.net/th/id/OIP.f_FEOID4MsskquR4aJXLgwHaEL?rs=1&pid=ImgDetMain&o=7&rm=3)
 
 ---
 
@@ -161,6 +166,8 @@ Desigualdad en acceso a la tecnología.
 * **Técnicas:** Phishing, smishing, pharming, ataques DDoS, hijacking.
 * **Seguridad:** Antivirus, firewall, proxy, VPN.
 
+![Sociedad de del conocimiento](https://image.jimcdn.com/app/cms/image/transf/dimension=670x10000:format=jpg/path/sa04f8d9fb604c9c6/image/ie8297174378c1654/version/1538648028/image.jpg)
+
 ---
 
 ## 📖 Bibliografía Consultada
@@ -174,3 +181,6 @@ Desigualdad en acceso a la tecnología.
 * Big Data Overview – IBM Big Data & Analytics Hub – [https://www.ibmbigdatahub.com](https://www.ibmbigdatahub.com)
 * Domótica y IoT – Cisco Blogs – [https://blogs.cisco.com](https://blogs.cisco.com)
 * Seguridad informática – INCIBE (Instituto Nacional de Ciberseguridad, España) – [https://www.incibe.es](https://www.incibe.es)
+
+![Bibliografia](https://tse1.mm.bing.net/th/id/OIP.7LCeQJDo-v6pCzr6-MZXbwHaE8?rs=1&pid=ImgDetMain&o=7&rm=3)
+
