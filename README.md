@@ -12,7 +12,7 @@ Practica1
 * **Descripción y funcionamiento:** Calculadora mecánica con ruedas dentadas que representaban cifras decimales. Permitía sumar y restar mediante un sistema de engranajes que trasladaba las llevadas de una rueda a otra. El usuario introducía números en diales y leía resultados en ventanillas. Fue el primer dispositivo mecánico de cálculo práctico, aunque limitado.
 * **¿Por qué no tuvo el éxito esperado?** Su fabricación era costosa y compleja, resolvía solo operaciones básicas y no tenía aplicación masiva en la época.
 
-![Pascalina]([https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Arts_et_Metiers_Pascaline_dsc03869.jpg/1200px-Arts_et_Metiers_Pascaline_dsc03869.jpg])
+![Pascalina](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Arts_et_Metiers_Pascaline_dsc03869.jpg/330px-Arts_et_Metiers_Pascaline_dsc03869.jpg)
 
 ---
 
@@ -24,7 +24,7 @@ Practica1
 * **Papel de Ada Byron:** Considerada la primera programadora. Elaboró el primer algoritmo para ser procesado por la máquina y reflexionó sobre sus posibilidades.
 * **Inconvenientes:** Excesiva complejidad, costes altos y limitaciones técnicas de la época.
 
-![Máquina Analítica](https://upload.wikimedia.org/wikipedia/commons/7/79/AnalyticalMachine_Babbage_London.jpg)
+![Máquina Analítica](https://static.wikia.nocookie.net/genios-computacion-1002/images/a/a0/Charles-babbage-analytical-engine-model.jpg/revision/latest?cb=20171128000838&path-prefix=es)
 
 ---
 
@@ -33,6 +33,8 @@ Practica1
 * **Año:** 1936 (concepto teórico publicado por Alan Turing).
 * **Descripción:** Modelo matemático con cinta infinita, cabezal lector/escritor y tabla de reglas. La máquina universal podía simular cualquier máquina de Turing, es decir, cualquier algoritmo.
 * **Importancia:** Fundamento teórico de la computación moderna.
+
+![Máquina enigma](https://e01-elmundo.uecdn.es/elmundo/imagenes/2012/06/22/ciencia/1340383539_extras_ladillos_1_0.jpg)
 
 ---
 
