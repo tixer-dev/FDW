@@ -109,11 +109,58 @@ Etapa de redes sociales, servicios interactivos y contenidos generados por usuar
 ### ▪️ Personajes clave
 
 * **Tim Berners-Lee:** Inventor de la Web.
-* 
+* - Nombre completo: Timothy John Berners-Lee
+- *Nacimiento*: 8 de junio de 1955, en Londres, Inglaterra
+- *Profesión:* Científico de la computación británico
+- Reconocido como: El inventor de la World Wide Web (WWW)
+* -**1989 (CERN, Suiza)**: Propuso un sistema para compartir información entre científicos usando hipertexto.
+- **1990: Creó las bases de la Web:**
+- HTML (HyperText Markup Language): lenguaje para crear páginas web.
+- HTTP (HyperText Transfer Protocol): protocolo para la comunicación entre navegadores y servidores.
+- URL (Uniform Resource Locator): direcciones únicas para localizar recursos en la web.
+- *1991:* Se publica la primera página web de la historia.
+ - W3C (World Wide Web Consortium, 1994): organismo que regula y estandariza las tecnologías web.
+- World Wide Web Foundation (2009): promueve una web libre, abierta y accesible para todos.
+- Open Data Institute (2012): impulsa el uso de datos abiertos para la innovación.
+
 * **Larry Page y Sergey Brin:** Fundadores de Google.
-* 
+* 👨‍💻 Larry Page
+- Nombre completo: Lawrence Edward Page
+- Nacimiento: 26 de marzo de 1973, en East Lansing, Michigan (EE. UU.)
+- Formación: Ingeniería informática en la Universidad de Míchigan y doctorado en Ciencias de la Computación en Stanford.
+- Dato curioso: Desde niño estuvo rodeado de ordenadores porque sus padres eran profesores de informática.
+👨‍💻 Sergey Brin
+- Nombre completo: Sergey Mijáilovich Brin
+- Nacimiento: 21 de agosto de 1973, en Moscú (URSS, hoy Rusia).
+- Migración: Su familia emigró a EE. UU. cuando él tenía 6 años, debido a la discriminación hacia los judíos en la Unión Soviética.
+- Formación: Matemáticas y Ciencias de la Computación en la Universidad de Maryland, luego doctorado en Stanford.
+- Encuentro en Stanford (1995): Se conocieron en la universidad mientras hacían el doctorado.
+- Proyecto inicial (1996): Crearon un buscador llamado BackRub, que analizaba los enlaces entre páginas web.
+- Nacimiento de Google (1998): Fundaron oficialmente Google Inc. con un cheque inicial de 100.000 $ de Andy Bechtolsheim (cofundador de Sun Microsystems).
+- Nombre: “Google” viene de googol, un número enorme (1 seguido de 100 ceros),
+- Google revolucionó la forma de buscar información en internet con su algoritmo PageRank.
+- Bajo su liderazgo, Google lanzó productos clave: Gmail, Google Maps, YouTube (adquirido), Android, Google Drive.
+- En 2004, Google salió a bolsa (IPO) y recaudó 1.900 millones de dólares.
+
+
 * **Magia de los garajes:** Origen humilde de grandes empresas tecnológicas (Apple, HP, Google).
-* 
+- El garaje se convirtió en un símbolo de Silicon Valley: un espacio humilde donde jóvenes visionarios empezaron proyectos que luego revolucionaron el mundo. Aunque en muchos casos el papel del garaje fue más simbólico que real, la narrativa inspira porque muestra que grandes ideas pueden surgir en lugares modestos.
+-  Apple – El mito del garaje (1976)
+- Fundadores: Steve Jobs, Steve Wozniak y Ronald Wayne.
+- Lugar: Garaje de la casa de los padres de Jobs en Los Altos, California.
+- Primer producto: La computadora Apple I, vendida a la tienda Byte Shop.
+- Realidad: Wozniak aclaró que el garaje fue más un punto de reunión y montaje que un verdadero taller de diseño.
+- Símbolo: Representa el espíritu emprendedor y la creatividad juvenil.
+- Google – El garaje alquilado (1998)
+- Fundadores: Larry Page y Sergey Brin.
+- Lugar: Garaje alquilado en Menlo Park, California, propiedad de Susan Wojcicki (quien luego sería CEO de YouTube).
+- Primer proyecto: El buscador Google, basado en el algoritmo PageRank.
+- Curiosidad: Ese garaje se convirtió en la primera oficina de Google.
+
+- Significado del mito
+- El garaje simboliza humildad, ingenio y perseverancia.
+- Representa la idea de que no se necesita un gran capital inicial para empezar, sino visión y creatividad.
+- Aunque en la práctica muchos de estos proyectos también se apoyaron en contactos, universidades y financiamiento, el mito del garaje sigue siendo una historia inspiradora para emprendedores.
 
 ![Personajes Claves](https://tse4.mm.bing.net/th/id/OIP.KPAVuWqIVQb9Sa8s8L8UNwHaFQ?rs=1&pid=ImgDetMain&o=7&rm=3)
 
