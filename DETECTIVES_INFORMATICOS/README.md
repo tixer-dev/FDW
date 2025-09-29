@@ -108,10 +108,7 @@ Etapa de redes sociales, servicios interactivos y contenidos generados por usuar
 
 ### ▪️ Personajes clave
 
-* **Leonard Kleinrock:** Conmutación de paquetes.
-* **Robert Kahn y Vinton Cerf:** Creadores de TCP/IP.
-* **Bill Gates y Steve Jobs:** Popularizaron la informática personal.
-* **Tim Berners-Lee:** Inventor de la Web.
+* **Tim Berners-Lee:** Inventor de la Web. 
 * **Larry Page y Sergey Brin:** Fundadores de Google.
 * **Magia de los garajes:** Origen humilde de grandes empresas tecnológicas (Apple, HP, Google).
 
