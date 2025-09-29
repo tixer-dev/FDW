@@ -108,9 +108,12 @@ Etapa de redes sociales, servicios interactivos y contenidos generados por usuar
 
 ### ▪️ Personajes clave
 
-* **Tim Berners-Lee:** Inventor de la Web. 
+* **Tim Berners-Lee:** Inventor de la Web.
+* 
 * **Larry Page y Sergey Brin:** Fundadores de Google.
+* 
 * **Magia de los garajes:** Origen humilde de grandes empresas tecnológicas (Apple, HP, Google).
+* 
 
 ![Personajes Claves](https://tse4.mm.bing.net/th/id/OIP.KPAVuWqIVQb9Sa8s8L8UNwHaFQ?rs=1&pid=ImgDetMain&o=7&rm=3)
 
