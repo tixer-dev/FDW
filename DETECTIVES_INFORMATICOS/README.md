@@ -112,25 +112,25 @@ Etapa de redes sociales, servicios interactivos y contenidos generados por usuar
 * - Nombre completo: Timothy John Berners-Lee
 - *Nacimiento*: 8 de junio de 1955, en Londres, Inglaterra
 - *Profesión:* Científico de la computación británico
-- Reconocido como: El inventor de la Web (WWW)
-* -**1989 (CERN, Suiza)**: Propuso un sistema para compartir información entre científicos usando hipertexto.
+- Conocido como: El inventor de la Web (WWW)
+* -**1989 (Suiza)**: Propuso un sistema para compartir información entre científicos usando hipertexto.
 - **1990: Creó las bases de la Web:**
 - HTML (HyperText Markup Language): lenguaje para crear páginas web.
 - HTTP (HyperText Transfer Protocol): protocolo para la comunicación entre navegadores y servidores.
 - URL (Uniform Resource Locator): direcciones únicas para localizar recursos en la web.
-- *1991:* Se publica la primera página web de la historia.
+- *1991:* Salio la primera pagina web de la historia.
 
 
 * **Larry Page y Sergey Brin:** Fundadores de Google.
 *  Larry Page
-- Nombre completo: Lawrence Edward Page
+  
 - Nacimiento: 26 de marzo de 1973, en East Lansing, Michigan (EE. UU.)
 - Formación: Ingeniería informática en la Universidad de Míchigan y doctorado en Ciencias de la Computación en Stanford.
 - Dato curioso: Desde niño estuvo rodeado de ordenadores porque sus padres eran profesores de informática.
 - 
  Sergey Brin
-- Nombre completo: Sergey Mijáilovich Brin
-- Nacimiento: 21 de agosto de 1973, en Moscú (URSS, hoy Rusia).
+
+- Nacimiento: 21 de agosto de 1973, en Moscú (Rusia).
 - Migración: Su familia emigró a EE. UU. cuando él tenía 6 años, debido a la discriminación hacia los judíos en la Unión Soviética.
 - Formación: Matemáticas y Ciencias de la Computación en la Universidad de Maryland, luego doctorado en Stanford.
 - Encuentro en Stanford (1995): Se conocieron en la universidad mientras hacían el doctorado.
