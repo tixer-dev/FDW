@@ -122,21 +122,19 @@ Etapa de redes sociales, servicios interactivos y contenidos generados por usuar
 
 
 * **Larry Page y Sergey Brin:** Fundadores de Google.
-*  Larry Page
   
+ ** Larry Page**
 - Nacimiento: 26 de marzo de 1973, en East Lansing, Michigan (EE. UU.)
 - Formación: Ingeniería informática en la Universidad de Míchigan y doctorado en Ciencias de la Computación en Stanford.
-- Dato curioso: Desde niño estuvo rodeado de ordenadores porque sus padres eran profesores de informática.
-- 
- Sergey Brin
+ 
+**Sergey Brin**
 
 - Nacimiento: 21 de agosto de 1973, en Moscú (Rusia).
-- Migración: Su familia emigró a EE. UU. cuando él tenía 6 años, debido a la discriminación hacia los judíos en la Unión Soviética.
 - Formación: Matemáticas y Ciencias de la Computación en la Universidad de Maryland, luego doctorado en Stanford.
 - Encuentro en Stanford (1995): Se conocieron en la universidad mientras hacían el doctorado.
 - Proyecto inicial (1996): Crearon un buscador llamado BackRub, que analizaba los enlaces entre páginas web.
 - Nacimiento de Google (1998): Fundaron oficialmente Google Inc. con un cheque inicial de 100.000 $ de Andy Bechtolsheim (cofundador de Sun Microsystems).
-- Nombre: “Google” viene de googol, un número enorme (1 seguido de 100 ceros),
+ “Google” viene de googol, un número enorme (1 seguido de 100 ceros),
 - Google revolucionó la forma de buscar información en internet con su algoritmo PageRank.
 - Bajo su liderazgo, Google lanzó productos clave: Gmail, Google Maps, YouTube (adquirido), Android, Google Drive.
 - En 2004, Google salió a bolsa (IPO) y recaudó 1.900 millones de dólares.
