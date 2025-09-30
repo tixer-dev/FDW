@@ -134,13 +134,11 @@ Etapa de redes sociales, servicios interactivos y contenidos generados por usuar
 - Encuentro en Stanford (1995): Se conocieron en la universidad mientras hacían el doctorado.
 - Proyecto inicial (1996): Crearon un buscador llamado BackRub, que analizaba los enlaces entre páginas web.
 - Nacimiento de Google (1998): Fundaron oficialmente Google Inc. con un cheque inicial de 100.000 $ de Andy Bechtolsheim (cofundador de Sun Microsystems).
- “Google” viene de googol, un número enorme (1 seguido de 100 ceros),
-- Google revolucionó la forma de buscar información en internet con su algoritmo PageRank.
-- Bajo su liderazgo, Google lanzó productos clave: Gmail, Google Maps, YouTube (adquirido), Android, Google Drive.
+ “Google” viene de googol, un número enorme (1 seguido de 100 ceros), Google revolucionó la forma de buscar información en internet con su algoritmo PageRank. Google lanzó productos clave: Gmail, Google Maps, YouTube (adquirido), Android, Google Drive.
 - En 2004, Google salió a bolsa (IPO) y recaudó 1.900 millones de dólares.
 
 
-* **Magia de los garajes:** Origen humilde de grandes empresas tecnológicas (Apple, HP, Google).
+**Magia de los garajes:** Origen humilde de grandes empresas tecnológicas (Apple, HP, Google).
 - El garaje se convirtió en un símbolo de Silicon Valley: un espacio humilde donde jóvenes visionarios empezaron proyectos que luego revolucionaron el mundo. Aunque en muchos casos el papel del garaje fue más simbólico que real, la narrativa inspira porque muestra que grandes ideas pueden surgir en lugares modestos.
 -  Apple – El mito del garaje (1976)
 - Fundadores: Steve Jobs, Steve Wozniak y Ronald Wayne.
