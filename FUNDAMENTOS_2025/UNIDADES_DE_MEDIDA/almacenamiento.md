@@ -52,3 +52,24 @@ Como 56.88 es menor que la duración (9360) entonces la peli se ve perfectamente
 **Dado una CPU de 10GHz. Si el tipo de instrucciones es de tipo RISC (reducida, 1 instrucción cada 5 ciclos de reloj)**
 **¿Cuantas instrucciones se ejecutan en 1 segundo?**
 **¿Y en 2 minutos?**
+(ejercicios de frecuencia osea Hz(hercios) se multiplica por 1000 en vez de 1024)
+1Hz = 1 ciclo/segundo
+10GHz = 10 * 1000 * 1000 = 10000000Hz
+1 instrucción cada 5 ciclos de reloj
+100000000Hz/5Hz por instrucción = 2000.000.000 instrucciones por segundo
+ y en 2 minutos?
+ 200.000.000 instrucciónes por segundo *120 segundos= 240.000.000.000 instrucciónes en 2 minutos.
+ **Y si fuera de CISC, con estos porcentajes de ejecución:**
+ **(15%) instrucciónes cada 2 ciclos de reloj**
+ **(25%) instrucciónes cada 3 ciclos de reloj**
+ **(60%) instrucciónes cada 5 ciclos de reloj**
+ **Se piede, nº de instrucciónes de media que se ejecutan en un segundo**
+ 1000000000 Hz/2Hz instrucción = 500000000 instrucciónes /segundo
+  1000000000 Hz/3Hz instrucción = 33333333,3 instrucciónes /segundo
+  1000000000 Hz/5Hz instrucción = 200000000 instrucciónes /segundo
+
+
+  500000000 instrucciónes / segundo * 0.15 = 7500000000 instrucciónes / segundo
+  33333333,3 instrucciónes / segundo * 0.25 = 833333333,3 instrucciónes /segundo.
+  200000000 instrucciónes / segundo  * 0.60 = 120000000 instrucciónes / segundo.
+  media de instrucciónes al segundo = 7500000000+83333333,3+200000000 = 77.008.333.333,3.
