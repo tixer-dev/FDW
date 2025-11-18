@@ -48,10 +48,11 @@
 1  ['00000110'],  +30
 2  ['00000111'],  +31
 3  ['01100000'],  +31
-4  ['01110000'],  mover a M0
+4  ['01100000'],  mover a M0
 5  ['0111'],      finalizar
 6  ['00011110'],  Dato con valor 30
 7  ['00011111']; Dato valor 31
+
 
 
 
@@ -85,3 +86,15 @@ Hay 8 instrucciones de 8 bits cada una.
 Una instrucción se puede interpretar de 2 maneras:
 1.- Código operación (primeros 4 bits) + posición memoria(los siguiente 4 bits)
 2.- Dato ó valor en binario(los 8 bits)
+
+
+
+00000111 OR 01100000 AND 1111111 ->M0
+0  ['00000111'],  +00000111
+1  ['00000110'],  OR 01100000
+2  ['00000000'],  
+3  ['01110000'],
+4  ['01110000'],  finalizacion
+5  ['11111111'],  Dato 1111111
+6  ['01100000'],  Dato 01100000
+7  ['00000111'];  Dato 00000111
