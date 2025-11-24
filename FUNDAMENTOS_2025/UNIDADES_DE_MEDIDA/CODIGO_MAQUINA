@@ -98,3 +98,15 @@ Una instrucción se puede interpretar de 2 maneras:
 5  ['11111111'],  Dato 1111111
 6  ['01100000'],  Dato 01100000
 7  ['00000111'];  Dato 00000111
+
+
+3x3x3x3 = M0= y M3
+0  00000111  x 3
+1  00010111  x 3
+2  00010111  x 3
+3  00010111  x 3
+4  01100000 Mover memoria 0
+5  01100011   Mover a memoria 3
+6  0111
+7  00000011  Dato 00000011
+
