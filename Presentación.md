@@ -7,7 +7,8 @@ Propósito: Sistema de hipertexto para compartir información de manera global.
 Innovación: HTML, URI, HTTP.  
 Impacto: Revolucionó la forma de acceder y difundir información.  
 Importancia: Fundamenta la web moderna que usamos hoy en día.  
-image
+<img width="1615" height="1036" alt="image" src="https://github.com/user-attachments/assets/0dbe9e00-5cad-4007-b6d3-c242e5ea2574" />
+
 ---
 # 🔍 Larry Page y Sergéi Brin  
 Fundación: 1998  
