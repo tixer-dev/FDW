@@ -25,7 +25,8 @@ Ejemplos: Apple (Jobs y Wozniak), Microsoft (Gates y Allen), Google (Page y Brin
 Ventaja: Bajo costo, creatividad y libertad para experimentar.  
 Inspiración: Muestra cómo la innovación surge con recursos limitados.  
 Impacto: Garajes se convirtieron en símbolos de emprendimiento tecnológico.  
-image
+<img width="261" height="193" alt="image" src="https://github.com/user-attachments/assets/42a6e92e-0645-4e2f-95cb-72192fc38292" />
+
 ---
 # 🧠 Conceptos clave  
 WWW → sistema de hipervínculos global.  
@@ -33,7 +34,6 @@ HTML → lenguaje de marcado para crear páginas web.
 PageRank → algoritmo que ordena resultados según relevancia.  
 Startup → empresa emergente con alto potencial de crecimiento.  
 Innovación → aplicación de ideas nuevas y útiles en tecnología.  
-image
 ---
 # ⚡ Evolución histórica  
 1989: Propuesta de la WWW por Tim Berners-Lee.  
@@ -42,13 +42,13 @@ image
 1998: Google inicia su motor de búsqueda.  
 2004: Redes sociales amplían interacción en línea.  
 2010–2020: Expansión móvil y servicios en la nube.  
-image
+<img width="1442" height="870" alt="image" src="https://github.com/user-attachments/assets/197fab67-2193-4d9f-a0a7-30ed1680bc39" />
+
 ---
 # 📌 Diferencia clave  
 WWW vs buscadores: WWW es el sistema, Google es la herramienta para navegarlo.  
 HTML vs algoritmos: HTML estructura información, PageRank organiza resultados.  
 Garajes vs oficinas: Los garajes simbolizan creatividad inicial frente a corporaciones establecidas.  
-image
 ---
 # 👥 Personajes destacados  
 Tim Berners-Lee → creador de la WWW, defensor del acceso libre.  
@@ -56,7 +56,6 @@ Larry Page → cofundador de Google, visión de organizar información global.
 Sergéi Brin → cofundador de Google, experto en algoritmos de búsqueda.  
 Steve Jobs → Apple, ejemplo de startup en garaje.  
 Bill Gates → Microsoft, ejemplo de innovación en espacios pequeños.  
-image
 ---
 # 💻 Impacto en la sociedad  
 Acceso global a información.  
@@ -64,7 +63,7 @@ Transformación de educación y comunicación.
 Nuevas formas de negocio y publicidad online.  
 Cultura digital y redes sociales.  
 Cambio en hábitos de consumo y entretenimiento.  
-image
+<img width="1000" height="750" alt="image" src="https://github.com/user-attachments/assets/90ea8dd9-66f3-48ea-9f3f-868b25cb4dc3" />
 ---
 # 🔧 Tecnologías relacionadas  
 Navegadores: Chrome, Firefox, Safari.  
@@ -72,7 +71,6 @@ Servidores web: Apache, Nginx.
 Protocolos: HTTP, HTTPS, FTP.  
 Bases de datos: MySQL, BigTable.  
 Lenguajes web: HTML, CSS, JavaScript.  
-image
 ---
 # 📊 Beneficios y desafíos  
 Beneficios: acceso rápido, colaboración global, difusión de conocimiento.  
@@ -80,7 +78,6 @@ Desafíos: privacidad, desinformación, ciberseguridad.
 Economía digital: comercio electrónico y publicidad en línea.  
 Brecha digital: desigualdad en acceso a internet.  
 Innovación continua: inteligencia artificial y algoritmos de recomendación.  
-image
 ---
 # 📚 Bibliografía  
 Tim Berners-Lee  
