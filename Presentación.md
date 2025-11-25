@@ -17,7 +17,7 @@ Objetivo: Organizar la información del mundo y hacerla accesible.
 Innovación: Algoritmo PageRank para búsquedas más relevantes.  
 Impacto: Cambió la forma de buscar información en internet.  
 Expansión: Servicios como Gmail, Maps, YouTube, Android.  
-image
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/dfafd015-df29-4994-a620-a06eae26e7e8" />
 ---
 # 🏠 La magia de los garajes  
 Inicio: Muchas startups comenzaron en garajes por falta de recursos.  
