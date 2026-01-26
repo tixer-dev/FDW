@@ -18,3 +18,5 @@ _______________                 |_________________________|
 |      |      |                 |             |           |
 |   0  ,  7   |                 |             ,           |                 
 |______|______|                 |_____________|___________|         
+RN C2  SE DEJAN LOS MISMOS NUMEROS EMPEZANDO POR LA DERECHA, HASTA QUE HAYA UN 1.
+
