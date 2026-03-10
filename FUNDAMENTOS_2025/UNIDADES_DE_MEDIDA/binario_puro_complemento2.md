@@ -1,5 +1,5 @@
 resta si hay un 1 alante se resta, si hay un 0 nada suma ...                                                            (32 16 8 4 2 0)    
-wn la resta el ultimo nuero se deja como esta y los demas se cambiam por ejemplo (( 101101)= -(C2 (010011), +(BP (45), en la suma seria ( 0111100)= BP=60, C2=60.
+wn la resta el ultimo nuero se deja como esta y los demas se cambiam por ejemplo (( 101101)= -(C2 (010011), +(BP (45), en la suma seria ( 0111100)= BP=60, C2=60.  C2= un 1 a lante
 BINARIO PURO                      COMPLEMENTO A 2 
                                 |------------------------|
 DECIMAL |                       | DECIMAL   |            |
